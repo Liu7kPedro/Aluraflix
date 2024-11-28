@@ -1,16 +1,16 @@
 body{
     background-color: black;
-    color: floralwhite;
+    color: rgb(76, 202, 17);
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
 }
 
 header {
-    border-bottom: solid 2px rgb(255, 255, 255);
+    border-bottom: solid 2px rgb(255, 0, 0);
     padding: 20px;
     font-size: 32px;
-    color: rgb(255, 255, 255);
+    color: rgb(255, 0, 0);
 }
 
 .camada {
