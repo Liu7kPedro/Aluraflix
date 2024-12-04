@@ -51,8 +51,8 @@ p {
 }
 
 .categoria-videos img:hover {
-    opacity: 6.0;
-    border: 3px solid rgb(red, rgb(0, 0, 0), blue);
+    opacity: 10.0;
+    border: 4px solid rgb(red, rgb(0, 0, 0), blue);
 }
 
 .categoria h2 {
